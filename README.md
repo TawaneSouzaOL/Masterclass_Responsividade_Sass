@@ -1,2 +1,2 @@
-# Masterclass_Responsividade_Sass
-Rocketseat | Media queries e Sass
+# Masterclass_Responsividade_Scss
+Rocketseat | Media queries e Scss
